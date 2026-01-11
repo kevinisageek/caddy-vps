@@ -1,6 +1,6 @@
 kevinisageek.org {
 	root * /srv
-	header X-Clacks-Overhead GNU Terry Pratchett
+	header X-Clacks-Overhead "GNU Terry Pratchett"
 	file_server {
 		index index.html index.xml
 	}
